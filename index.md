@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cignus/20sGuides/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Link to the [other page](https://cignus.github.io/20sGuides/anotherpage) to view the other page here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
